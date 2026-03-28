@@ -1,7 +1,5 @@
 # Digital-literacy-project
 
-#  Digital Literacy Project 
-
 ##Student Information
 
 Name:Akshita Girdhar  
